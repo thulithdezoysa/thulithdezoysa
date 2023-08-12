@@ -1,4 +1,4 @@
-I'm a Front End Developer
+#I'm a Front End Developer
 
 - 👋 Hi, I’m Thulith de Zoysa
 - 👀 I’m interested in coding and learning new technologies
