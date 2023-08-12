@@ -1,6 +1,7 @@
-#I'm a Front End Developer
+# 👋 Hi, I’m Thulith de Zoysa
 
-- 👋 Hi, I’m Thulith de Zoysa
+## I'm a Front End Developer and a Computer Science Graduate
+
 - 👀 I’m interested in coding and learning new technologies
 - 🌱 I’m currently learning ReactJS and TypeScript
 - ⚡ I love eSports and Traveling.
